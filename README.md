@@ -8,10 +8,7 @@ An updated version of my portfolio.
 
 Complete with links to my projects, and functioning links to other proffessional profiles.
 
-<<<<<<< HEAD
+Deployed application:https://solomonl6.github.io/updatedportfolio-2.Repo/
 
 
-Deployed application:https://solomonl6.github.io/updatedportfolio-2.Repo/
-=======
-Deployed application:https://solomonl6.github.io/updatedportfolio-2.Repo/
->>>>>>> 203cdc80a1bdf5844c7beef453baccbf7eaa2c53
+
